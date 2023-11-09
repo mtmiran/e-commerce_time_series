@@ -1,19 +1,4 @@
-# Data Science - Times Series
-
-## Description
-
-Online shopping is, more than ever, part of people's daily lives.
-More than ever, using data to make decisions is the big bet
-of companies in the world.
-
-Understanding the profile of the customer portfolio to generate personalized campaigns is
-imperative in a competitive world like today.
-
-Furthermore, good sales planning is crucial for the supply sector
-chain to power the network and avoid problems such as sold out and overstocking.
-
-Let's take on this challenge to work with a purchasing base via e-commerce that
-allows us to build views about customers and projections about future sales.
+# Data Science Project - Time Series
 
 ## Goals
 
