@@ -22,5 +22,4 @@ conda install pandas ipykernel openpyxl matplotlib seaborn scipy scikit-learn xg
 
 ### Forecasting
 
-- Prophet: `conda install -c conda-forge fbprophet`
-- dependencies: `pip3 install plotly holidays`
+- Prophet: `python -m pip install prophet`
