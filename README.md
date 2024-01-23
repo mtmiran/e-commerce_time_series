@@ -17,9 +17,10 @@ Construction of customer segmentation with a focus on value pyramid: Recency, Fr
 ```bash
 conda create -n e-commerce_time_series
 conda activate e-commerce_time_series
-conda install pandas ipykernel openpyxl matplotlib seaborn scipy scikit-learn xgboost
+conda install pandas ipykernel openpyxl matplotlib seaborn scipy scikit-learn 
 ```
 
 ### Forecasting
 
 - Prophet: `python -m pip install prophet`
+- plotly: `pip3 install plotly`
